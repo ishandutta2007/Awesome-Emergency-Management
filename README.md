@@ -8,15 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Veoci](https://www.veoci.com/)** — Flexible emergency management and continuity platform used for incident response, planning, and operations (also referred to as Veoci EM).
-- **[Noggin](https://www.noggin.io/)** — Integrated risk, emergency, and security management platform.
-- **[Everbridge](https://www.everbridge.com/)** — Leading critical event management and mass notification platform.
-- **[Preparis](https://www.preparis.com/)** — Emergency preparedness and response platform focused on planning and continuity.
-- **[Crises Control](https://www.crises-control.com/)** — Mass notification and crisis communication system.
-- **[Raptor Technologies](https://raptortech.com/)** — Emergency management and student safety solutions (especially for education).
-- **[AlertMedia](https://www.alertmedia.com/)** — Employee safety and emergency communication platform.
-- **[OnSolve](https://www.onsolve.com/)** — Critical communication and incident management solutions.
-- **[DisasterLAN](https://www.disasterlan.com/)** — Emergency management and disaster recovery coordination tools.
+| Platform | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Veoci](https://www.veoci.com/)** | Flexible emergency management and continuity platform used for incident response, planning, and operations (also referred to as Veoci EM). | Custom / Quote-based | No free tier (Demo available on request) |
+| **[Noggin](https://www.noggin.io/)** | Integrated risk, emergency, and security management platform. | Custom / Quote-based | No free tier (Free trial/demo available on request) |
+| **[Everbridge](https://www.everbridge.com/)** | Leading critical event management and mass notification platform. | Custom / Quote-based | No free tier (Free companion mobile apps) |
+| **[Preparis](https://www.preparis.com/)** | Emergency preparedness and response platform focused on planning and continuity. | Custom / Quote-based | No free tier (Free demo available) |
+| **[Crises Control](https://www.crises-control.com/)** | Mass notification and crisis communication system. | Subscription (Custom) | No free tier (Free notifications via email, mobile app, and MS Teams) |
+| **[Raptor Technologies](https://raptortech.com/)** | Emergency management and student safety solutions (especially for education). | Custom / Quote-based | No free tier |
+| **[AlertMedia](https://www.alertmedia.com/)** | Employee safety and emergency communication platform. | Custom / Quote-based | No free tier (Free companion mobile apps for existing enterprise accounts) |
+| **[OnSolve](https://www.onsolve.com/)** | Critical communication and incident management solutions. | Custom / Quote-based | No free tier (Free trial/demo available) |
+| **[DisasterLAN](https://www.disasterlan.com/)** | Emergency management and disaster recovery coordination tools. | Custom / Quote-based | No free tier (Free trial/demo available) |
+
 
 ## 🔓 Open-Source Software
 
