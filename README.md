@@ -11,6 +11,12 @@
 
 Below is a **curated list 📚** of notable platforms and their open-source equivalents. Fully featured commercial-grade mass-notification and enterprise EOC suites are limited in pure open source, but strong options exist for humanitarian response 🇺🇳, incident command, crisis mapping 🗺️, early warning 🔔, and computer-aided dispatch 📞.
 
+### 🔍 Key Categories & SEO Keywords
+- **Crisis Management & Disaster Response Software**: Systems for public safety coordination.
+- **Mass Notification & Alerting**: Critical event communication tools like Everbridge and AlertMedia.
+- **Incident Command System (ICS) Tools**: Emergency operations center (EOC) software.
+- **Computer-Aided Dispatch (CAD)**: Resource scheduling and responder mapping.
+
 ## 🏢 SaaS / Hosted Platforms
 
 | Platform | Description | Size (Est. Revenue/Valuation) | Pricing | Free Tier / Trial Limit |
