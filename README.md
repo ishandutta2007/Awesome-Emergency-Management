@@ -23,23 +23,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Humanitarian & Disaster Management Platforms
-- **[Sahana Eden](https://github.com/sahana/eden)** — Mature open-source disaster and emergency management platform. Supports organizational directories, resource tracking, human resources, needs assessment, shelter management, and situation reporting. Widely used in humanitarian contexts.
-- **[Ushahidi](https://github.com/ushahidi)** — Iconic open-source crisis-mapping and crowdsourcing platform. Aggregates reports from SMS, email, web, and social media onto maps for situational awareness during emergencies and elections.
-- **[OpenEWS](https://github.com/open-ews/open-ews)** — Open-source Early Warning System dissemination platform for sending targeted alerts (SMS, voice, etc.) to large populations. Designed for governments and NGOs.
+- **[TheHive](https://github.com/TheHive-Project/TheHive)** [![GitHub stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers) — Open-source security incident response platform useful for structured case management (more SOC-oriented but adaptable).
+- **[Ushahidi](https://github.com/ushahidi)** [![GitHub stars](https://img.shields.io/github/stars/ushahidi/ushahidi?style=social&color=white)](https://github.com/ushahidi/ushahidi/stargazers) — Iconic open-source crisis-mapping and crowdsourcing platform. Aggregates reports from SMS, email, web, and social media onto maps for situational awareness during emergencies and elections.
+- **FOSS Public Alert Server** + **[FOSS Warn](https://github.com/nucleus-ffm/foss_warn)** [![GitHub stars](https://img.shields.io/github/stars/nucleus-ffm/foss_warn?style=social&color=white)](https://github.com/nucleus-ffm/foss_warn/stargazers) — Open-source stack for receiving and displaying emergency alerts based on the Common Alerting Protocol (CAP). Enables privacy-friendly public alert applications.
+- **[Resgrid](https://github.com/resgrid)** [![GitHub stars](https://img.shields.io/github/stars/resgrid/Core?style=social&color=white)](https://github.com/resgrid/Core/stargazers) — Open-source Computer-Aided Dispatch (CAD), personnel management, shift scheduling, AVL, and emergency management platform. Suitable for first-responder and departmental use.
+- **[OpenEWS](https://github.com/open-ews/open-ews)** [![GitHub stars](https://img.shields.io/github/stars/open-ews/open-ews?style=social&color=white)](https://github.com/open-ews/open-ews/stargazers) — Open-source Early Warning System dissemination platform for sending targeted alerts (SMS, voice, etc.) to large populations. Designed for governments and NGOs.
+- **[SCRIBE](https://github.com/nocomp/scribe)** [![GitHub stars](https://img.shields.io/github/stars/nocomp/scribe?style=social&color=white)](https://github.com/nocomp/scribe/stargazers) — Open-source hospital crisis management platform focused on structured, multi-site coordination during major incidents (AGPL).
+- **[Sahana Eden](https://github.com/sahana/eden)** [![GitHub stars](https://img.shields.io/github/stars/sahana/eden?style=social&color=white)](https://github.com/sahana/eden/stargazers) — Mature open-source disaster and emergency management platform. Supports organizational directories, resource tracking, human resources, needs assessment, shelter management, and situation reporting. Widely used in humanitarian contexts.
 
-### Incident Command, Dispatch & Operations
-- **[Resgrid](https://github.com/resgrid)** — Open-source Computer-Aided Dispatch (CAD), personnel management, shift scheduling, AVL, and emergency management platform. Suitable for first-responder and departmental use.
-- **NICS / Raven** (Next-Generation Incident Command System) — Originally developed by MIT Lincoln Laboratory and later open-sourced. Supports multi-agency incident command, real-time information sharing, and common operating pictures. Variants and derivatives continue to be used by emergency services.
-- **[SCRIBE](https://github.com/nocomp/scribe)** — Open-source hospital crisis management platform focused on structured, multi-site coordination during major incidents (AGPL).
-
-### Alerting & Public Warning
-- **FOSS Public Alert Server** + **[FOSS Warn](https://github.com/nucleus-ffm/foss_warn)** — Open-source stack for receiving and displaying emergency alerts based on the Common Alerting Protocol (CAP). Enables privacy-friendly public alert applications.
-- Various CAP-compliant tools and aggregators that collect and redistribute official emergency alerts.
-
-### IT / Security Incident Management (Adaptable)
-- **[TheHive](https://github.com/TheHive-Project/TheHive)** — Open-source security incident response platform useful for structured case management (more SOC-oriented but adaptable).
+### 🌐 Other Open-Source Solutions & Concepts (Non-repository / Unlinked)
 - **OneUptime**, **IncidentRelay**, and similar open-source on-call / incident management tools — Primarily built for IT/SRE but can support broader incident workflows.
+- **NICS / Raven** (Next-Generation Incident Command System) — Originally developed by MIT Lincoln Laboratory and later open-sourced. Supports multi-agency incident command, real-time information sharing, and common operating pictures. Variants and derivatives continue to be used by emergency services.
+- Various CAP-compliant tools and aggregators that collect and redistribute official emergency alerts.
 
 ### Typical Open-Source Approach
 1. **Core emergency management / EOC** — Sahana Eden or Resgrid
