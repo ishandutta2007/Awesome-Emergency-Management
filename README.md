@@ -1,5 +1,10 @@
 # Awesome-Emergency-Management
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Emergency Management Banner" width="100%" />
+</p>
+
+
 ## Similar Projects to Emergency Management Platforms
 
 **Emergency Management Platforms** support crisis preparedness, incident command, mass notification, resource tracking, situational awareness, and multi-agency coordination during emergencies and disasters. Leading commercial tools include Veoci, Noggin, Everbridge, Preparis, Crises Control, Raptor Technologies, AlertMedia, OnSolve, and DisasterLAN.
